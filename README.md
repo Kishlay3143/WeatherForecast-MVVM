@@ -12,3 +12,4 @@ Search by Location: Enter any location to get weather information for that area.
 Location-Based Data: The app automatically detects your current location and provides weather data for that location by default.
 
 Screenshots
+![Screenshot (4419)](https://github.com/Kishlay3143/WeatherForecast-MVVM/assets/92507922/d4a3fa21-ab6f-454c-a592-fe3d762e3674)
